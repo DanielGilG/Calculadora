@@ -18,7 +18,7 @@ body {
     width: 300px;
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.7);
-    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0px 50px rgb(237 176 176);
     padding: 20px;
     backdrop-filter: blur(10px);
 }
